@@ -6,7 +6,7 @@ class Form{
        this.title = createElement('h2');
     }
     hide() {
-        // this.greeting.hide();
+         this.greeting.hide();
         this.button.hide();
         this.input.hide();
         this.title.hide();
